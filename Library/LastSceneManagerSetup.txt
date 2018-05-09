@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/GameLogic/Scenes/GameLogic.unity
+  isLoaded: 1
+  isActive: 1
